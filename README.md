@@ -16,5 +16,5 @@ The workshop is organized in two parts:
   - visualization and
   - enrichment analysis.
 
-# Technical Requirements
+## Technical Requirements
 The workshop does not require any prior knowledge, but participants are assumed to feel comfortable **programming using Python** for basic tasks. Attendants have to **bring their own laptops**.
