@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "notebooks"
+version = "0.1.0"
+description = "Spatial transcriptiomics workshop"
+authors = ["Sonja Hänzelmann <sonja.haenzelmann@zmnh.uni-hamburg.de>",
+           "Robin Khatri <robin.khatri@zmnh.uni-hamburg.de>",
+           "Fabian Hausmann <fabian.hausmann@zmnh.uni-hamburg.de>"]
+license = "GNU General Public License v3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+scanpy = "^1.9.1"
+squidpy = "^1.2.3"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.1"
+nbsmoke = "^0.6.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
