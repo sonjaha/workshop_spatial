@@ -1,5 +1,9 @@
 # Spatial Transcriptomics with Python [Beginner’s course]
 
+## Your instructors
+Robin Khatri
+Dr. Fabian Hausmann
+Dr. Sonja Hänzelmann
 
 ## Introduction
 Spatial transcriptomics represents a seminal development in the field of molecular biology, offering new possibilities for analyzing gene expression patterns within the context of tissue architecture. The Visium 10x platform is a very popular platform providing researchers with a toolkit for comprehending cellular biology in its anatomical context.
