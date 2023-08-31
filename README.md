@@ -1,4 +1,4 @@
-# Spatial transcriptomics workshop
+# Spatial Transcriptomics with Python [Beginner’s course]
 
 
 ## Introduction
@@ -8,13 +8,47 @@ In this workshop, attendees will receive a short introduction to spatial transcr
 
 Overall, this workshop is designed for researchers, students, and technicians who are interested in utilizing the latest advances in spatial transcriptomics and data analysis tools to advance their knowledge of cellular biology. Whether you are a seasoned scientist or a newcomer to the field, this workshop provides a unique opportunity to expand your skills and gain a deeper understanding of this fascinating subject.
 
-The workshop is organized in two parts:
-- Introduction to spatial transcriptomics, background, and technology
-- Hands-on data analysis using SquidPy, including:
-  - annotation,
-  - clustering,
-  - visualization and
-  - enrichment analysis.
+## Schedule
+
+### Session 1 (45 mins) - Welcome and Introduction to Workshop
+- Lecture: Setting the stage for spatial transcriptomics and workshop objectives.
+- Lecture: Spatial Transcriptomics Overview: What and Why?
+- Lecture: Familiarizing participants with the dataset and analysis tasks.
+
+### Session 2 (60 mins) - Data Preparation and Quality Control
+- Input/Output Procedures and Code Demonstration
+  - Lecture: Explaining data input/output procedures and their importance
+  - Hands-On: Guided code demonstration for data loading and saving
+- Check Quality Control (QC)
+  - Lecture: Understanding quality control steps in spatial transcriptomics data
+  - Hands-On: Practical QC demonstration using code
+- Filtering
+  - Lecture: Exploring data filtering techniques for improved analysis quality
+  - Hands-On: Filtering data using provided code
+- Preprocessing
+  - Lecture: Introducing data preprocessing steps for downstream analysis
+  - Hands-On: Preprocessing data with guided code examples
+
+
+### Session 3 (90 mins) - Clustering and Annotation
+- Clustering and Differential Expression (DE) Analysis Techniques and Code Walkthrough
+  - Lecture: Exploring clustering methods for identifying distinct cell populations
+  - Hands-On: Clustering analysis through hands-on coding
+- Cluster Annotation and Extended Spatial Plotting
+  - Lecture: Annotating clustered cells and advanced spatial visualization
+  - Hands-On: Practicing cluster annotation and optional spatial plotting
+
+
+### Session 4 (30 mins) - Neighborhood Enrichment Analysis
+- Neighborhood Enrichment Analysis and Code Explanation
+  - Lecture: Understanding the importance of neighborhood analysis
+  - Hands-On: Running neighborhood enrichment analysis using provided code
+
+
+### Final Session (Feedback and Closing)
+- 10 mins: Q&A, Feedback Collection, and Discussion
+- 5 mins: Closing Remarks and Thank You
+
 
 ## Technical Requirements
 The workshop does not require any prior knowledge, but participants are assumed to feel comfortable **programming using Python** for basic tasks. Attendants have to **bring their own laptops**.
