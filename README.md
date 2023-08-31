@@ -2,7 +2,9 @@
 
 ## Your instructors
 Robin Khatri
+
 Dr. Fabian Hausmann
+
 Dr. Sonja Hänzelmann
 
 ## Introduction
