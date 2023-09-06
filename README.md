@@ -16,12 +16,12 @@ Overall, this workshop is designed for researchers, students, and technicians wh
 
 ## Schedule
 
-### Session 1 (45 mins) - Welcome and Introduction to Workshop
+### Session 1 - Welcome and Introduction to Workshop
 - Lecture: Setting the stage for spatial transcriptomics and workshop objectives.
 - Lecture: Spatial Transcriptomics Overview: What and Why?
 - Lecture: Familiarizing participants with the dataset and analysis tasks.
 
-### Session 2 (60 mins) - Data Preparation and Quality Control
+### Session 2 - Data Preparation and Quality Control
 - Input/Output Procedures and Code Demonstration
   - Lecture: Explaining data input/output procedures and their importance
   - Hands-On: Guided code demonstration for data loading and saving
@@ -36,7 +36,7 @@ Overall, this workshop is designed for researchers, students, and technicians wh
   - Hands-On: Preprocessing data with guided code examples
 
 
-### Session 3 (90 mins) - Clustering and Annotation
+### Session 3 - Clustering and Annotation
 - Clustering and Differential Expression (DE) Analysis Techniques and Code Walkthrough
   - Lecture: Exploring clustering methods for identifying distinct cell populations
   - Hands-On: Clustering analysis through hands-on coding
@@ -45,7 +45,7 @@ Overall, this workshop is designed for researchers, students, and technicians wh
   - Hands-On: Practicing cluster annotation and optional spatial plotting
 
 
-### Session 4 (30 mins) - Neighborhood Enrichment Analysis
+### Session 4 - Neighborhood Enrichment Analysis
 - Neighborhood Enrichment Analysis and Code Explanation
   - Lecture: Understanding the importance of neighborhood analysis
   - Hands-On: Running neighborhood enrichment analysis using provided code
