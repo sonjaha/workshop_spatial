@@ -52,8 +52,8 @@ Overall, this workshop is designed for researchers, students, and technicians wh
 
 
 ### Final Session (Feedback and Closing)
-- 10 mins: Q&A, Feedback Collection, and Discussion
-- 5 mins: Closing Remarks and Thank You
+- Q&A, Feedback Collection, and Discussion
+- Closing Remarks and Thank You
 
 
 ## Technical Requirements
