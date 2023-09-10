@@ -38,14 +38,18 @@ RUN mamba install --yes -c "conda-forge" \
     "seaborn" \
     "scikit-learn" \
     "leidenalg" \
-    "scipy"
+    "scipy" \
+    "jupyterlab_widgets" \
+    "ipywidgets" \
+    "nbgitpuller"
 
 RUN mamba install --yes -c "bioconda" \
     "decoupler" \
     "gseapy"
 
 USER root
-RUN rm -r /home/jovyan/work/ && \
+RUN python3 -c "import pathlib; import json; data = json.loads(pathlib.Path('/opt/conda/share/jupyter/lab/schemas/@jupyterlab/docmanager-extension/plugin.json').read_text()); data['properties']['defaultViewers']['default'] = {'markdown':'Markdown Preview'}; pathlib.Path('/opt/conda/share/jupyter/lab/schemas/@jupyterlab/docmanager-extension/plugin.json').write_text(json.dumps(data))" && \
+    rm -r /home/jovyan/work/ && \
     mamba clean --all -f -y && \
     fix-permissions "${CONDA_DIR}" && \
     fix-permissions "/home/${NB_USER}"
