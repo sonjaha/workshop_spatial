@@ -37,12 +37,13 @@ Overall, this workshop is designed for researchers, students, and technicians wh
 
 
 ### Session 3 - Clustering and Annotation
-- Clustering and Differential Expression (DE) Analysis Techniques and Code Walkthrough
-  - Lecture: Exploring clustering methods for identifying distinct cell populations
+- Clustering and Code Walkthrough
+  - Lecture: Exploring clustering for identifying distinct spot populations
   - Hands-On: Clustering analysis through hands-on coding
 - Cluster Annotation and Extended Spatial Plotting
   - Lecture: Annotating clustered cells and advanced spatial visualization
   - Hands-On: Practicing cluster annotation and optional spatial plotting
+- Evaluation of annotations
 
 
 ### Session 4 - Neighborhood Enrichment Analysis
