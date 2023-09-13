@@ -1,5 +1,7 @@
 # Spatial Transcriptomics with Python [Beginner’s course]
 
+A handout of the workshop is available here [Handout.md](Handout.md).
+
 ## Your instructors
 Robin Khatri
 
